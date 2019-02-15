@@ -7,11 +7,11 @@
 
 - [Introduction](#introduction)
 - [Objectif ](#Objectif)
-- [Analyse](#Methode utilisée)
-  - [Liste des données](#liste des données)
-  -[Importation des données](#Importation des données)
+- [Analyse](#Analyse)
+  - [Liste des données](#Liste des données)
+  - [Importation des données](#Importation des données)
   - [Algorithme](#Algorithme)
-- [étape par étape ](#étape par étape )
+- [Etape par étape ](#Etape par étape)
 - [Interpretation](#Interpretation)
 - [Licence](#licence)
 
@@ -82,7 +82,8 @@ Visualisation des performance
 ### Interpretation 
 
 Les classes que je souhaite distinguer sont Gammas (g) et Hadronic shower background (h). L'ensemble de données contient 19020 échantillons et est un peu déséquilibré (70% g , 30% h).
-Bien que, dans le monde réel, nous nous attendions à un rapport h / g d'au moins 1000: 1 dans cet ensemble de données généré par une simulation de Monte Carlo, le nombre d'événements h est fortement sous-estimé. Les auteurs de l'ensemble de données ont déclaré que la prédiction d'un arrière-plan (h) en tant que signal (g) était pire que celle d'un g en h, de sorte qu'un ROC doit être utilisé pour valider le modèle au lieu de la précision du classificateur. J'ai abordé ce problème en divisant mon jeu de données en deux.
+Dans cet ensemble de données généré par une simulation de Monte Carlo, le nombre d'événements h est fortement sous-estimé. 
+Les auteurs de l'ensemble de données ont déclaré que la prédiction d'un arrière-plan (h) en tant que signal (g) était pire que celle d'un g en h, de sorte qu'un ROC doit être utilisé pour valider le modèle au lieu de la précision du classificateur. J'ai abordé ce problème en divisant mon jeu de données en deux.
 
 
 
