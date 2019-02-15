@@ -6,11 +6,11 @@
 **Sommaire**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Introduction](#introduction)
-- [Objectif ](#Objectif)
-- [Analyse ?](#Analyse)
-  - [Liste ](#Liste)
+- [Objectif](#Objectif)
+- [Analyse](#Analyse)
+  - [Liste](#Liste)
   - [Importation](#Importation)
-  - [Algorithme ?](#Algorithme)
+  - [Algorithme](#Algorithme)
 - [Etape](#Etape)
 - [Interpretation](#Interpretation)
 - [Licence](#licence)
