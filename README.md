@@ -54,7 +54,7 @@ une courbe ROC doit être utilisé. Les points pertinents sur cette courbe sont 
 8. fM3Trans:    3ème racine continue du troisième moment le long d'un axe mineur [mm]
 9. fAlpha:      angle continu de l’axe principal avec le vecteur à l’origine [deg]
 10. fDist:      distance continue de l'origine au centre de l'ellipse [mm]
-11. **classe:     g, h  gamma (signal), hadron (fond)
+11. **classe:     g, h  gamma (signal), hadron (fond)**
 
 ### Importation
 
