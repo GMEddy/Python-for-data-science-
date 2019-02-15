@@ -7,10 +7,10 @@
 
 - [Introduction](#introduction)
 - [Objectif ](#Objectif)
-- [Analyse ?](#Analyse ?)
-  - [Liste ](#Liste )
+- [Analyse ?](#Analyse)
+  - [Liste ](#Liste)
   - [Importation](#Importation)
-  - [Algorithme ?](#Algorithme ?)
+  - [Algorithme ?](#Algorithme)
 - [Etape](#Etape)
 - [Interpretation](#Interpretation)
 - [Licence](#licence)
