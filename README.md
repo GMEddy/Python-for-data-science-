@@ -8,7 +8,7 @@
 - [Introduction](#introduction)
 - [Objectif](#Objectif)
 - [Analyse](#Analyse)
-  - [Liste](#Liste)
+  - [Liste features](#Liste features)
   - [Importation](#Importation)
   - [Algorithme](#Algorithme)
 - [Etape](#Etape)
@@ -42,7 +42,7 @@ La précision de la classification simple n’a pas de sens pour ces données, c
 en tant que signal est pire que classer un signal événement en arrière-plan. Pour comparer différents classificateurs, 
 une courbe ROC doit être utilisé. Les points pertinents sur cette courbe sont ceux où la probabilité d'accepter un événement de fond comme signal est inférieur à l'un des seuils suivants: 0,01, 0,02, 0,05, 0,1, 0,2 en fonction des besoins qualité de l'échantillon des événements acceptés pour différentes expériences.
 
-### Liste 
+### Liste features
 
 1. fLongueur:   axe continu majeur de l'ellipse [mm]
 2. fWidth:      axe continu mineur de l'ellipse [mm]
