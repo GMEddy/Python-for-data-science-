@@ -11,7 +11,7 @@
   - [Liste](#Liste)
   - [Importation](#Importation)
   - [Algorithme](#Algorithme)
-- [Etape par étape ](#Etape par étape)
+- [Etape](#Etape)
 - [Interpretation](#Interpretation)
 - [Licence](#licence)
 
