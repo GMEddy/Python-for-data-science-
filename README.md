@@ -44,8 +44,8 @@ une courbe ROC doit être utilisé. Les points pertinents sur cette courbe sont 
 
 ### Liste 
 
-1. fLongueur:   axe majeur de l'ellipse [mm]
-2. fWidth:      axe mineur de l'ellipse [mm]
+1. fLongueur:   axe continu majeur de l'ellipse [mm]
+2. fWidth:      axe continu mineur de l'ellipse [mm]
 3. fSize:       10 de la somme du contenu de tous les pixels [dans #phot]
 4. fConc:       ratio continu de la somme des deux pixels les plus élevés sur fSize [ratio]
 5. fConc1:      rapport continu  du pixel le plus élevé sur fSize [ratio]
