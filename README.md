@@ -64,7 +64,9 @@ path ="C:\Users\Black Mamba\Documents\Python Scripts\MagicGammaTelescope.csv"
 
 ### Algorithme ?
  
- Nous allons avoir besoin d'un algorithme pour mener à bien cette analyse , j'ai choisie RandomForestClassifier car cette algorithme me donnais le meilleur résultat. [https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html] 
+ Nous allons avoir besoin d'un algorithme pour mener à bien cette analyse , j'ai choisie RandomForestClassifier car cette algorithme me donnais le meilleur résultat.
+ 
+ [https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html] 
 
 
 ## Etape
