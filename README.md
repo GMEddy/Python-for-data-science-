@@ -64,9 +64,6 @@ path ="C:\Users\Black Mamba\Documents\Python Scripts\MagicGammaTelescope.csv"
  
  Nous allons avoir besoin d'un algorithme pour mener à bien cette analyse , j'ai choisie RandomForestClassifier car cette algorithme me donnais le meilleur résultat. [https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html] 
 
-**Note**: if you catch an error about authentication, [add your ssh to your github profile](https://help.github.com/articles/connecting-to-github-with-ssh/).
-
-1. If you need some helps on git commands, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ## Etape par étape 
 
