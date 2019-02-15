@@ -1,4 +1,4 @@
-# Python-for-data-science
+# Python for data science
 
  
  >  Devoir maison
